@@ -174,7 +174,7 @@ tmp2 = fs.data_enhance_compare(tmp1,location,name)
 tmp2
 ```
 
-![image-20211026201938046](README/image-20211026201938046.png)
+![image-20211026201938046](README_1/image-20211026201938046.png)
 
 
 
@@ -209,7 +209,7 @@ tmp_b1,tmp_b2,tmp_b3,tmp_b4 = abc.auto_model(X,Y,cv,"accuracy")
 tmp_c = abc.estimator_violion(tmp_b1,tmp_b2,"Violionplot")
 ```
 
-<img src="README/binary_ROC.png" alt="binary_ROC" style="zoom:50%;" />
+<img src="README_1/binary_ROC.png" alt="binary_ROC" style="zoom:50%;" />
 
 ![estimator_violion](README/estimator_violion.png)
 
@@ -223,5 +223,5 @@ QQ：1776228595
 
 E-mail：1776228595@qq.com
 
-GitHub：地址待填写
+GitHub：https://github.com/SynchronyML/Auto_Taste_ML
 
